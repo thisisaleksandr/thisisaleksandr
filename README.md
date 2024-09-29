@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Aleksandr] 
+# Hello! 👋 I'm Aleksandr
 
 I’m currently a Computer Science student at **Dakota State University (DSU)**, where I’m pursuing my passion for problem-solving, software engineering, and all things tech.
 
